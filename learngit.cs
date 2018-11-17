@@ -1,9 +1,12 @@
 public class learngit
 {
-    public statuc void Main() 
+
+    public static void Main()
     {
-        var a = "segun ";
-        var b = "Adewalure";
-        var c = a=b;
+        var a = 34;
+        var b = 45;
+        var c = a+b;
+        Console:Writeline(c);
     }
+
 }
